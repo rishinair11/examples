@@ -1,2 +1,2 @@
-# Examples - Rishi
+# Examples
 Examples of Concourse workflows
